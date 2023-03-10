@@ -1,0 +1,50 @@
+.a{
+    color:rgb(146, 12, 12);
+}
+.b{
+    
+    color:black;
+    border:0px solid white;
+    background-color:rgb(230, 198, 103);
+}
+.c{
+    color:black;
+    border-left:1px solid rgb(162, 42, 62);
+}
+.d{
+    color:green;
+    font-size:medium ;
+}
+.e{
+    color:black;
+    border-bottom:3px solid red;
+    font-size: medium;
+}
+.f{
+    color:black;
+    border:3px dashed black;
+    font-size: medium;
+}
+.g{
+    color:black;
+    border:1px solid rgb(5, 5, 89);
+    background-color: blue;
+    font-size: medium;
+}
+.h{
+    color:black;
+    font-size:larger;
+}
+.x{
+    color:white;
+    border:1px solid black;
+    border-radius:6px;
+    background-color:green;
+    font-size:medium;
+    width:8%;
+    height:6%;
+   padding-left:2%;
+   padding-right: 2%;
+   padding-top: 0.5%;
+   padding-bottom: 0.5%;
+}
